@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:28.066854
+#+DATE: 2015-08-30 20:16:31.788620
 #+TITLE: 入楞伽經
 #+PROPERTY: CBETA_ID T16n0671
 #+PROPERTY: ID KR6i0328
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 671
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0328_T_010-0576a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 《入楞伽經》卷第十¶
+《入楞伽經》卷第十¶
 ¶
 元魏天竺三藏菩提留支譯¶
 總品第十八之二¶
@@ -198,7 +197,7 @@
 　依因觀和合，
 　我不說是法。¶
 　如鏡中見像，
-　眼𪾼見毛輪；¶
+　眼[目*壹]見毛輪；¶
 　如是依熏心，
 　愚癡人心見。¶
 　共分別可別，
@@ -780,7 +779,7 @@
 　離於知可知，
 　是說有為法。¶
 　此惟是可覺，
-　名名中不離；¶
+　名名中不離離；¶
 　若人異覺知，
 　不自覺他覺。¶
 　五法實法本，
@@ -1286,7 +1285,7 @@
 　亦如金離垢；¶
 　有而不可見，
 　我離過亦爾；¶
-　如琴及䯊鼓，
+　如琴及[骨*可]鼓，
 　種種美妙聲；¶
 　陰中我亦爾，
 　愚癡覓一異。¶

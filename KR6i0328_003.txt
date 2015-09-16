@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:27.792947
+#+DATE: 2015-08-30 20:16:31.545072
 #+TITLE: 入楞伽經
 #+PROPERTY: CBETA_ID T16n0671
 #+PROPERTY: ID KR6i0328
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 671
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0328_T_003-0527b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《入楞伽經》卷第三¶
+《入楞伽經》卷第三¶
 ¶
 元魏天竺三藏菩提留支譯¶
 集一切佛法品第三之二¶
