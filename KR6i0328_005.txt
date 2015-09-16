@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:27.862729
+#+DATE: 2015-08-30 20:16:32.250693
 #+TITLE: 入楞伽經
 #+PROPERTY: CBETA_ID T16n0671
 #+PROPERTY: ID KR6i0328
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 671
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0328_T_005-0540b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《入楞伽經》卷第五¶
+《入楞伽經》卷第五¶
 ¶
 元魏天竺三藏菩提留支譯¶
 
-4佛心品(五)
-:PROPERTIES:
-:head: 佛心品第四
-:END:
-¶
+佛心品第四¶
 
 爾時佛告聖者大慧菩薩言：「大慧！我今為¶
 汝說意生身修行差別。大慧！諦聽！諦聽！當¶
