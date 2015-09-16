@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 入楞伽經
+#+DATE: 2015-08-30 20:16:28.357861
+#+PROPERTY: JUAN 0
