@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:28.013709
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:19
 #+TITLE: 入楞伽經
 #+PROPERTY: CBETA_ID T16n0671
 #+PROPERTY: ID KR6i0328
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 671
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0328_T_009-0565b> ¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《入楞伽經》卷第九¶
+《入楞伽經》卷第九¶
 ¶
 元魏天竺三藏菩提留支譯¶
 
-18總品(九-十)
-:PROPERTIES:
-:head: 總品第十八之一
-:END:
-¶
+* 總品第十八之一¶
 
 爾時世尊，欲重宣此修多羅深義而說偈¶
 言：¶
@@ -1913,8 +1908,8 @@
 　如象沒深泥，
 　身東西動搖；¶
 　如是三昧醉，
-　聲聞沒亦爾。
+　聲聞沒亦爾。」
 #+END_VERSE
-」¶
+¶
 《入楞伽經》卷第九¶
 

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:28.066854
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:19
 #+TITLE: 入楞伽經
 #+PROPERTY: CBETA_ID T16n0671
 #+PROPERTY: ID KR6i0328
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 671
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0328_T_010-0576a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 《入楞伽經》卷第十¶
+《入楞伽經》卷第十¶
 ¶
 元魏天竺三藏菩提留支譯¶
 總品第十八之二¶
@@ -780,7 +779,7 @@
 　離於知可知，
 　是說有為法。¶
 　此惟是可覺，
-　名名中不離；¶
+　名名中不離＝雜【三】【宮】＊離＝雜【宋】【元】【明】【宮】＊離離；¶
 　若人異覺知，
 　不自覺他覺。¶
 　五法實法本，
@@ -1856,7 +1855,7 @@
 　天龍夜叉等，
 　乾闥婆修羅，¶
 　諸天比丘僧，
-　大歡喜奉行。
+　大歡喜奉行。」
 #+END_VERSE
-」¶
+¶
 《入楞伽經》卷第十
